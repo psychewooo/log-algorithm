@@ -1,0 +1,5 @@
+# PyCharm
+.idea/
+
+# 알고리즘 문제 input 텍스트 파일
+*.txt
