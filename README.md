@@ -12,6 +12,7 @@
 log-algorithm/
 ├── boj/
 │   ├── bronze/
+│   │    └── 1234/
 │   └── silver/
 │
 ├── swea/
@@ -29,6 +30,8 @@ log-algorithm/
 ### ✍️ Commit Message Convention
 
 ```bash
-solve: [SWEA-D3] 문제 번호. 문제 이름
-solve: [BOJ-SILVER3] 문제 번호. 문제 이름
+solve: [platform-difficulty] problem-number. problem-title
+
+solve: [SWEA-D3] 2805. 농작물 수확하기
+solve: [BOJ-GOLD5] 7569. 토마토
 ```
